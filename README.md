@@ -10,3 +10,4 @@ I added a wander function to the boids so that every once in a while some of the
 
 live demo:
 
+https://socalledsound.github.io/boids/

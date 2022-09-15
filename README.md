@@ -1,5 +1,6 @@
 #  boids
 
+![boids][https://res.cloudinary.com/chris-kubick/image/upload/v1663201160/Screen_Shot_2022-09-14_at_5.18.58_PM_hfwk3q.png]
 
 this is an implementation of Craig Reynold's famous boids algorithm, based on Daniel Shiffman's interpretation:
 
